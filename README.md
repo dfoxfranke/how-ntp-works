@@ -1,1 +1,1 @@
-# how-ntp-works
+These are the slides from my "How NTP Works" talk at Penguicon 2016. I'll add the TeX and gnuplot sources to the repo as soon as I get the Makefile into a sane state. I plan to give this talk again at other venues and these slides will evolve accordingly.
